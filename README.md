@@ -10,7 +10,7 @@ If you use this repository in your work, please cite the following:
 
 ```bibtex
 @article{hu2025robust,
-  title={Robust Dynamic Material Handling via Adaptive  Constrained Evolutionary Reinforcement Learning},
+  title={Robust Dynamic Material Handling via Adaptive Constrained Evolutionary Reinforcement Learning},
   author={Hu, Chengpeng and Wang, Ziming and Liu, Jialin and Zhang, Chengqi and Yao, Xin},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2025},
